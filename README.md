@@ -33,7 +33,7 @@ Para compilar e executar o projeto, você precisará do Android Studio instalado
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/PittViic/iphone-calculator.git
+    git clone https://github.com/viictorcsv/iphone-calculator.git
     ```
 
 2.  **Abra o projeto no Android Studio:**
