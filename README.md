@@ -27,7 +27,7 @@ Este projeto é um clone da calculadora padrão do iOS, desenvolvido em Kotlin c
 - **XML:** Utilizado para a construção e estilização dos layouts e da interface do usuário.
 - **Android SDK:** Conjunto de ferramentas para o desenvolvimento de aplicativos nativos para Android.
 
-## 🚀 Como Utilizar
+## Como Utilizar
 
 Para compilar e executar o projeto, você precisará do Android Studio instalado.
 
