@@ -6,13 +6,13 @@ Uma recriação da clássica calculadora do iPhone, desenvolvida como um aplicat
   ![Calculadora do iPhone](https://github.com/user-attachments/assets/50264344-f68e-4f0a-9a85-59b2bf84bfad)
 </div>
 
-## 📖 Descrição
+## Descrição
 
 Este projeto é um clone da calculadora padrão do iOS, desenvolvido em Kotlin com o Android Studio. O objetivo foi replicar o design limpo e a experiência de usuário do aplicativo original, adaptando-o para a plataforma Android. A interface foi criada para ser intuitiva, responsiva e familiar.
 
 **Link do Projeto:** [https://github.com/PittViic/iphone-calculator.git](https://github.com/user-attachments/assets/65f2754c-a368-4ff4-bd7f-d200eebbd156)
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Operações Básicas:** Suporte completo para adição, subtração, multiplicação e divisão.
 - **Cálculos com Porcentagem:** Calcule porcentagens de forma simples e direta.
@@ -20,7 +20,7 @@ Este projeto é um clone da calculadora padrão do iOS, desenvolvido em Kotlin c
 - **Botão "AC":** Limpa todas as entradas e zera o cálculo ("All Clear").
 - **Interface Fiel:** Design e layout inspirados diretamente na calculadora do iOS.
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Kotlin:** Linguagem de programação principal, moderna e oficial para o desenvolvimento Android.
 - **Android Studio:** Ambiente de Desenvolvimento Integrado (IDE) para a criação do aplicativo.
